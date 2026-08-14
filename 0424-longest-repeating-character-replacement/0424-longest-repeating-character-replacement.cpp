@@ -7,11 +7,13 @@ public:
         while(r<n){
             hash[s[r]-'A']++;
             maxfreq = max(maxfreq,hash[s[r]-'A']);
-            while((r-l+1)-maxfreq > k){
+            if((r-l+1)-maxfreq > k){
                 hash[s[l]-'A']--;
                 l++;
             }
-            maxLength = max(maxLength, r-l+1);
+            if((r-l+1)- maxfreq <= k){
+                maxLength = max(maxLength, r-l+1);
+            }
             r++;
         }
         return maxLength;
