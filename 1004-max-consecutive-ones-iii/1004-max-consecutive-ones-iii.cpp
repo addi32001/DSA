@@ -6,11 +6,11 @@ public:
         int zeros = 0;
         while(r<n){
             if(nums[r]==0)zeros++;
-            while(zeros > k){
+            if(zeros > k){
                 if(nums[l]==0)zeros--;
                 l++;
             }
-            maxLength = max(maxLength, r - l + 1);
+            if(zeros<=k)maxLength = max(maxLength, r - l + 1);
             r++;
         }
         return maxLength;
