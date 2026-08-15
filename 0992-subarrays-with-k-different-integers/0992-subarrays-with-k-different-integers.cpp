@@ -4,7 +4,7 @@ public:
         int n= nums.size();
         if(k<0)return 0;
         int l = 0, r = 0,cnt = 0;
-        map<int,int>mpp;
+        unordered_map<int,int>mpp;
         while(r<n){
             mpp[nums[r]]++;
             while(mpp.size()>k){
