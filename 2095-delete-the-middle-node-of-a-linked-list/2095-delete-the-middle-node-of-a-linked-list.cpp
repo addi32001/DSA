@@ -21,7 +21,7 @@ public:
         }
         ListNode* middle = slow -> next;
         slow->next = slow->next->next;
-        delete middle;
+        //delete middle;
         return head;
     }
 };
