@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/addi32001/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/addi32001/DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/addi32001/DSA/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/addi32001/DSA/tree/master/0877-stone-game) |
