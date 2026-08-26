@@ -26,8 +26,6 @@ public:
             }
             r++;
         }
-
-        if(st == -1)return "";
         return ans;
     }
 };
