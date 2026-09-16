@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/addi32001/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/addi32001/DSA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/addi32001/DSA/tree/master/0877-stone-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/addi32001/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/addi32001/DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/addi32001/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/addi32001/DSA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/addi32001/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/addi32001/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/addi32001/DSA/tree/master/1872-stone-game-viii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/addi32001/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
