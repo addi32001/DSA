@@ -2,11 +2,10 @@ class Solution {
 public:
     set<vector<int>>st;
     void allcomb(vector<int>& arr,int i,vector<int>ans, int target,vector<vector<int>>&allCombination){
-        int n = arr.size();
-        if(i==n || target<0)return;
-
-        if(target == 0){
-            allCombination.push_back(ans);
+        if (i == arr.size()) {
+            if (target == 0) {
+                allCombination.push_back(ans);
+            }
             return;
         }
         if(target >=arr[i]){
