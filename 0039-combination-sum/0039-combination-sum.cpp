@@ -6,10 +6,8 @@ public:
         if(i==n || target<0)return;
 
         if(target == 0){
-            if(st.find(ans)==st.end()){
-                allCombination.push_back(ans);
-                st.insert(ans);
-            }
+            allCombination.push_back(ans);
+            return;
         }
         if(target >=arr[i]){
             ans.push_back(arr[i]);
