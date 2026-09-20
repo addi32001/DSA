@@ -4,11 +4,13 @@ public:
         if (x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
         }
-        int revertedNumber = 0;
-        while (x > revertedNumber) {
-            revertedNumber = revertedNumber * 10 + x % 10;
-            x /= 10;
+        int p = x;
+        long revertedNumber = 0;
+        while (p > 0) {
+            revertedNumber = revertedNumber * 10 + p % 10;
+            p /= 10;
         }
+        cout<<revertedNumber<<endl;
         return x == revertedNumber || x == revertedNumber / 10;
     }
 };
