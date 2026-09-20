@@ -1,13 +1,13 @@
 class Solution {
 public:
     void solve(int ind,vector<int>&ds,vector<vector<int>>&ans,int k,int n){
-         if(ds.size()==k){
-            if(n == 0){
+         if(n == 0){
+            if(ds.size()==k){
                 ans.push_back(ds);
                 return;
             }
         }
-        if(n<=0)return;
+        //if(n<=0)return;
 
 
         for(int i = ind;i<10;i++){
