@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/addi32001/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/addi32001/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/addi32001/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/addi32001/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/addi32001/DSA/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/addi32001/DSA/tree/master/1872-stone-game-viii) |
+| [3524-find-x-value-of-array-i](https://github.com/addi32001/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/addi32001/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/addi32001/DSA/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/addi32001/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3524-find-x-value-of-array-i](https://github.com/addi32001/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/addi32001/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
