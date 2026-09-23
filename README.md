@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/addi32001/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/addi32001/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/addi32001/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/addi32001/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/addi32001/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/addi32001/DSA/tree/master/0213-house-robber-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/addi32001/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/addi32001/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/addi32001/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/addi32001/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/addi32001/DSA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/addi32001/DSA/tree/master/0877-stone-game) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/addi32001/DSA/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/addi32001/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
