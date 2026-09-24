@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/addi32001/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/addi32001/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/addi32001/DSA/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/addi32001/DSA/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/addi32001/DSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/addi32001/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/addi32001/DSA/tree/master/0213-house-robber-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/addi32001/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/addi32001/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/addi32001/DSA/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/addi32001/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/addi32001/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/addi32001/DSA/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
