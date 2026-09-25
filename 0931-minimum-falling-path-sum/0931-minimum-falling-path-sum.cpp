@@ -26,9 +26,9 @@ public:
                     int d = 1e9;
                     int dg_left = 1e9;
                     int dg_right = 1e9;
-                    if(i<n-1 && j>0)dg_left = matrix[i][j] +dp[i+1][j-1]; 
-                    if(i<n-1)d = matrix[i][j] + dp[i+1][j];
-                    if(i<n-1 && j<n-1)dg_right = matrix[i][j] + dp[i+1][j+1];
+                    if(j>0)dg_left = matrix[i][j] +dp[i+1][j-1]; 
+                    d = matrix[i][j] + dp[i+1][j];
+                    if(j<n-1)dg_right = matrix[i][j] + dp[i+1][j+1];
                     dp[i][j] = min(dg_left,min(d, dg_right));
             }
         }
