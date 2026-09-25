@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/addi32001/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/addi32001/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/addi32001/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/addi32001/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/addi32001/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi32001/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/addi32001/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/addi32001/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/addi32001/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/addi32001/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/addi32001/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/addi32001/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/addi32001/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/addi32001/DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
+| [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/addi32001/DSA/tree/master/0148-sort-list) |
+| [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/addi32001/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/addi32001/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/addi32001/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/addi32001/DSA/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/addi32001/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/addi32001/DSA/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/addi32001/DSA/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
