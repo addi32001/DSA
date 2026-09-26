@@ -17,12 +17,13 @@ public:
             totalSum += nums[i];
         }
         if(totalSum % 2 != 0) return false;
-        vector<vector<int>>dp(n,vector<int>((totalSum/2)+1,0));
+        int k = totalSum/2;
+        vector<vector<int>>dp(n,vector<int>(k+1,0));
         //return solve(nums.size()-1,totalSum/2,nums,dp);
         for(int i=0;i<n;i++)dp[i][0] = true;
-        if(nums[0]<=totalSum/2)dp[0][nums[0]] = true;
+        if(nums[0]<=k)dp[0][nums[0]] = true;
         for(int ind=1;ind<n;ind++){
-            for(int target = 1; target <= totalSum/2;target++){
+            for(int target = 1; target <= k;target++){
                 bool notTake = dp[ind-1][target];
                 bool take = false;
                 if(nums[ind]<=target)take = dp[ind-1][target-nums[ind]];
@@ -30,6 +31,6 @@ public:
 
             }
         }
-        return dp[n-1][totalSum/2];
+        return dp[n-1][k];
     }
 };
