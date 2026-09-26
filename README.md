@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/addi32001/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/addi32001/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/addi32001/DSA/tree/master/0216-combination-sum-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/addi32001/DSA/tree/master/0877-stone-game) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/addi32001/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/addi32001/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/addi32001/DSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/addi32001/DSA/tree/master/0877-stone-game) |
@@ -303,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/addi32001/DSA/tree/master/3525-find-x-value-of-array-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
