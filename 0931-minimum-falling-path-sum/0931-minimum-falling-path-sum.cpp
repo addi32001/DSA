@@ -2,7 +2,7 @@ class Solution {
 public:
     int solve(int i, int j,vector<vector<int>>& matrix,vector<vector<int>>& dp){
         int n = matrix.size();
-        if(i==n || j<0 || j==n) return 1e9;
+        if(j<0 || j==n) return 1e9;
         if(i==n-1) return matrix[i][j];
         if(dp[i][j] != -1)return dp[i][j];
         int dg_left = matrix[i][j] + solve(i+1,j-1,matrix,dp);
@@ -22,7 +22,7 @@ public:
         for(int j = 0;j<n;j++)dp[n-1][j] = matrix[n-1][j];
 
         for(int i= n-2;i>=0;i--){
-            for(int j = n-1;j>=0;j--){
+            for(int j = 0;j<n;j++){
                     int d = 1e9;
                     int dg_left = 1e9;
                     int dg_right = 1e9;
