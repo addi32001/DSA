@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi32001/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/addi32001/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/addi32001/DSA/tree/master/1872-stone-game-viii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/addi32001/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/addi32001/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/addi32001/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/addi32001/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/addi32001/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1872-stone-game-viii](https://github.com/addi32001/DSA/tree/master/1872-stone-game-viii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/addi32001/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/addi32001/DSA/tree/master/0148-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/addi32001/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/addi32001/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi32001/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/addi32001/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/addi32001/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/addi32001/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/addi32001/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/addi32001/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -246,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/addi32001/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -313,4 +319,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
