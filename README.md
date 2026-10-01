@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/addi32001/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/addi32001/DSA/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/addi32001/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/addi32001/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/addi32001/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/addi32001/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/addi32001/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/addi32001/DSA/tree/master/0130-surrounded-regions) |
+| [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
 | [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
 ## Matrix
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/addi32001/DSA/tree/master/0287-find-the-duplicate-number) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
