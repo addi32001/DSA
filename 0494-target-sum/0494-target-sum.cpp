@@ -18,7 +18,8 @@ public:
         return dp[index][target]=take + notTake;
     }
 
-    int solve(int n, int target,vector<int>& nums){
+    int findTargetSumWays(vector<int>& nums, int target) {
+        int n = nums.size();
         int totalSum = 0;
         for(int i=0;i<n;i++){
             totalSum += nums[i];
@@ -28,10 +29,5 @@ public:
         if(diff<0 || diff%2!=0)return 0;
         vector<vector<int>>dp(n,vector<int>(diff+1,-1));
         return  f(n-1,nums,diff/2,dp);
-    }
-
-    int findTargetSumWays(vector<int>& nums, int target) {
-        int n = nums.size();
-        return solve(n,target,nums);
     }
 };
