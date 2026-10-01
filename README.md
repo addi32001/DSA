@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/addi32001/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/addi32001/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/addi32001/DSA/tree/master/0904-fruit-into-baskets) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/addi32001/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/addi32001/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/addi32001/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/addi32001/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/addi32001/DSA/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/addi32001/DSA/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/addi32001/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -340,10 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/addi32001/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/addi32001/DSA/tree/master/0494-target-sum) |
 ## Meet in the Middle
 |  |
 | ------- |
