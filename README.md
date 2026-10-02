@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/addi32001/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/addi32001/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/addi32001/DSA/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/addi32001/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/addi32001/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/addi32001/DSA/tree/master/0518-coin-change-ii) |
@@ -151,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/addi32001/DSA/tree/master/0455-assign-cookies) |
 | [1927-sum-game](https://github.com/addi32001/DSA/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/addi32001/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/addi32001/DSA/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/addi32001/DSA/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/addi32001/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/addi32001/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/addi32001/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/addi32001/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/addi32001/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/addi32001/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/addi32001/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/addi32001/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -373,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/addi32001/DSA/tree/master/0518-coin-change-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/addi32001/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
