@@ -14,7 +14,7 @@ public:
 
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
-        vector<vector<long long>>dp(n,vector<long long>(amount+1,0));
+        vector<vector<int>>dp(n,vector<int>(amount+1,0));
         // return solve(n-1,amount,coins,dp);
         for(int i=0;i<=amount;i++){
             if(i % coins[0]==0)dp[0][i]=1;
