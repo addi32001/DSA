@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/addi32001/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/addi32001/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/addi32001/DSA/tree/master/0076-minimum-window-substring) |
+| [0301-remove-invalid-parentheses](https://github.com/addi32001/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/addi32001/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/addi32001/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/addi32001/DSA/tree/master/0856-score-of-parentheses) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/addi32001/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/addi32001/DSA/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/addi32001/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/addi32001/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/addi32001/DSA/tree/master/0542-01-matrix) |
 | [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/addi32001/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/addi32001/DSA/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/addi32001/DSA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/addi32001/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/addi32001/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/addi32001/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
