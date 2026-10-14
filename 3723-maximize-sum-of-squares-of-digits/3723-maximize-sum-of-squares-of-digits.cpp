@@ -1,6 +1,7 @@
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
+         if (sum > 9 * num) return "";
         string ans = "";
         for(int i=1;i<=num;i++){
             if(sum>=10){
@@ -12,7 +13,7 @@ public:
                 sum -= sum;
             }
         }
-        if(sum == 0)return ans;
+        if (sum == 0 && ans[0] != '0')return ans;
         else return "";
     }
 };
