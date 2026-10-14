@@ -9,11 +9,11 @@ public:
                 sum -= 9;
             }
             else{
-                ans += to_string(sum);
+                ans += '0'+sum;
                 sum -= sum;
             }
         }
-        if (sum == 0 && ans[0] != '0')return ans;
+        if (sum == 0)return ans;
         else return "";
     }
 };
